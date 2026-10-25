@@ -1,5 +1,7 @@
 ![A picture of the Microsoft Logo](./docs/media/graphics/microsoftlogo.png)
 
+# EFE
+
 # Azure SQL Database Developer Workshop Overview
 
 ## Workshop Goals
